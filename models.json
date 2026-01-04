@@ -1,5 +1,6 @@
 {
-  "generatedAt": "2026-01-04T16:45:47.641Z",
+  "version": "mvp-1",
+  "generatedAt": "2026-01-04T16:48:17.542Z",
   "items": [
     {
       "printerId": "bambu_x1c",
@@ -31,6 +32,21 @@
         "Aftermarket available"
       ],
       "multiMaterialNotes_SinglePrint": "For material compatibility and bonding behavior, see the Multi-Material Guide in the Filaments section."
+    },
+    {
+      "printerId": "creality_k1",
+      "brandName": "Creality",
+      "brandSlug": "creality",
+      "modelName": "K1",
+      "modelSlug": "creality-k1",
+      "status": "avoid",
+      "evidenceStrength": "strong",
+      "assessmentMaintenanceState": "Monitoring (no changes detected)",
+      "typicalPriceMinEur": 750,
+      "nozzleStandard": [
+        "Proprietary"
+      ],
+      "multiMaterialNotes_SinglePrint": "none is existant\n"
     }
   ]
 }
