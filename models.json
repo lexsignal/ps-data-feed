@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-04T14:27:57.672Z",
+  "generatedAt": "2026-01-04T14:28:56.564Z",
   "items": [
     {
       "printerId": "bambu_x1c",
@@ -33,19 +33,20 @@
       "multiMaterialNotes_SinglePrint": "For material compatibility and bonding behavior, see the Multi-Material Guide in the Filaments section."
     },
     {
-      "printerId": "creality_k1",
-      "brandName": "Creality",
-      "brandSlug": "creality",
-      "modelName": "K1",
-      "modelSlug": "creality-k1",
-      "status": "avoid",
-      "evidenceStrength": "strong",
-      "assessmentMaintenanceState": "Monitoring (no changes detected)",
-      "typicalPriceMinEur": 750,
+      "printerId": "bambu_a1",
+      "brandName": "Bambu Lab",
+      "brandSlug": "bambu-lab",
+      "modelName": "A1",
+      "modelSlug": "bambu-a1",
+      "status": "caution",
+      "evidenceStrength": "moderate",
+      "assessmentMaintenanceState": "Reviewed recently",
+      "typicalPriceMinEur": 259,
       "nozzleStandard": [
-        "Proprietary"
+        "Proprietary",
+        "Stainless steel"
       ],
-      "multiMaterialNotes_SinglePrint": "none is existant\n"
+      "multiMaterialNotes_SinglePrint": "Additional materials may be possible under specific constraints. For material compatibility and bonding behavior, see the Multi-Material Guide in the Filaments section."
     }
   ]
 }
