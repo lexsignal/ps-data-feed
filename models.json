@@ -1,20 +1,51 @@
 {
-  "id": "recaxj8kVXI1doPrP",
-  "createdTime": "2026-01-04T11:59:28.000Z",
-  "printerId": "creality_k1",
-  "modelName": "K1",
-  "brandName": "Creality",
-  "modelSlug": "creality-k1",
-  "_isActiveLineup": true,
-  "status": "avoid",
-  "evidenceStrength": "strong",
-  "typicalPriceMinEur": 750,
-  "multiMaterialNotes_SinglePrint": "none is existant\n",
-  "assessmentMaintenanceState": "Monitoring (no changes detected)",
-  "_reviewOverdue": "No date",
-  "isActiveLineup_export": "true",
-  "nozzleStandard": [
-    "Proprietary"
-  ],
-  "brandSlug": "creality"
+  "generatedAt": "2026-01-04T14:04:39.486Z",
+  "items": [
+    {
+      "printerId": "bambu_x1c",
+      "brandName": "Bambu Lab",
+      "brandSlug": "bambu-lab",
+      "modelName": "X1 Carbon",
+      "modelSlug": "bambu-x1c",
+      "status": "caution",
+      "evidenceStrength": "strong",
+      "assessmentMaintenanceState": "Monitoring (no changes detected)",
+      "typicalPriceMinEur": 980,
+      "nozzleStandard": [
+        "Proprietary"
+      ],
+      "multiMaterialNotes_SinglePrint": "Additional materials may be possible under specific constraints. For material compatibility and bonding behavior, see the Multi-Material Guide in the Filaments section."
+    },
+    {
+      "printerId": "creality_k2",
+      "brandName": "Creality",
+      "brandSlug": "creality",
+      "modelName": "K2",
+      "modelSlug": "creality-k2",
+      "status": "avoid",
+      "evidenceStrength": "strong",
+      "assessmentMaintenanceState": "Monitoring recent updates",
+      "typicalPriceMinEur": 1200,
+      "nozzleStandard": [
+        "Proprietary",
+        "Aftermarket available"
+      ],
+      "multiMaterialNotes_SinglePrint": "For material compatibility and bonding behavior, see the Multi-Material Guide in the Filaments section."
+    },
+    {
+      "printerId": "creality_k1",
+      "brandName": "Creality",
+      "brandSlug": "creality",
+      "modelName": "K1",
+      "modelSlug": "creality-k1",
+      "status": "avoid",
+      "evidenceStrength": "strong",
+      "assessmentMaintenanceState": "Monitoring (no changes detected)",
+      "typicalPriceMinEur": 750,
+      "nozzleStandard": [
+        "Proprietary"
+      ],
+      "multiMaterialNotes_SinglePrint": "none is existant\n"
+    }
+  ]
 }
