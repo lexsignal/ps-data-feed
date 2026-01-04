@@ -1,21 +1,20 @@
 {
-  "id": "recUOvMKaiTRZJF90",
-  "createdTime": "2025-12-28T22:00:04.000Z",
-  "printerId": "creality_k2",
-  "modelName": "K2",
+  "id": "recaxj8kVXI1doPrP",
+  "createdTime": "2026-01-04T11:59:28.000Z",
+  "printerId": "creality_k1",
+  "modelName": "K1",
   "brandName": "Creality",
-  "modelSlug": "creality-k2",
+  "modelSlug": "creality-k1",
   "_isActiveLineup": true,
   "status": "avoid",
   "evidenceStrength": "strong",
-  "typicalPriceMinEur": 1200,
-  "multiMaterialNotes_SinglePrint": "For material compatibility and bonding behavior, see the Multi-Material Guide in the Filaments section.",
-  "assessmentMaintenanceState": "Monitoring recent updates",
+  "typicalPriceMinEur": 750,
+  "multiMaterialNotes_SinglePrint": "none is existant\n",
+  "assessmentMaintenanceState": "Monitoring (no changes detected)",
   "_reviewOverdue": "No date",
   "isActiveLineup_export": "true",
   "nozzleStandard": [
-    "Proprietary",
-    "Aftermarket available"
+    "Proprietary"
   ],
   "brandSlug": "creality"
 }
