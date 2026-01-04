@@ -1,20 +1,21 @@
 {
-  "id": "rec2Uj5FwA8I8oj9n",
+  "id": "recUOvMKaiTRZJF90",
   "createdTime": "2025-12-28T22:00:04.000Z",
-  "printerId": "bambu_x1c",
-  "modelName": "X1 Carbon",
-  "brandName": "Bambu Lab",
-  "modelSlug": "bambu-x1c",
+  "printerId": "creality_k2",
+  "modelName": "K2",
+  "brandName": "Creality",
+  "modelSlug": "creality-k2",
   "_isActiveLineup": true,
-  "status": "caution",
+  "status": "avoid",
   "evidenceStrength": "strong",
-  "typicalPriceMinEur": 980,
-  "multiMaterialNotes_SinglePrint": "Additional materials may be possible under specific constraints. For material compatibility and bonding behavior, see the Multi-Material Guide in the Filaments section.",
-  "assessmentMaintenanceState": "Monitoring (no changes detected)",
+  "typicalPriceMinEur": 1200,
+  "multiMaterialNotes_SinglePrint": "For material compatibility and bonding behavior, see the Multi-Material Guide in the Filaments section.",
+  "assessmentMaintenanceState": "Monitoring recent updates",
   "_reviewOverdue": "No date",
   "isActiveLineup_export": "true",
   "nozzleStandard": [
-    "Proprietary"
+    "Proprietary",
+    "Aftermarket available"
   ],
-  "brandSlug": "bambu-lab"
+  "brandSlug": "creality"
 }
