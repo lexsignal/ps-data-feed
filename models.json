@@ -1,0 +1,20 @@
+{
+  "id": "rec2Uj5FwA8I8oj9n",
+  "createdTime": "2025-12-28T22:00:04.000Z",
+  "printerId": "bambu_x1c",
+  "modelName": "X1 Carbon",
+  "brandName": "Bambu Lab",
+  "modelSlug": "bambu-x1c",
+  "_isActiveLineup": true,
+  "status": "caution",
+  "evidenceStrength": "strong",
+  "typicalPriceMinEur": 980,
+  "multiMaterialNotes_SinglePrint": "Additional materials may be possible under specific constraints. For material compatibility and bonding behavior, see the Multi-Material Guide in the Filaments section.",
+  "assessmentMaintenanceState": "Monitoring (no changes detected)",
+  "_reviewOverdue": "No date",
+  "isActiveLineup_export": "true",
+  "nozzleStandard": [
+    "Proprietary"
+  ],
+  "brandSlug": "bambu-lab"
+}
